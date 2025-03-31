@@ -15,7 +15,8 @@
     </div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Studying </h2> <div align= "center">  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whdcks3&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"/>
-     <div align= "center">
+     </div>
+        <div align= "center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
@@ -31,6 +32,5 @@
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
      </div>
-    </div> 
    
     
