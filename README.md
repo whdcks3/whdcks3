@@ -6,15 +6,13 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> sj012944@gamil.com </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link="> </a>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧸 Contact me </h2> <br> 
+     <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link="> </a>
          <a href=> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link="> </a>
-         <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:"> </a>
-          </div>  <br> 
+         <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:"> </a>  <br> 
     <div align= "center">  </div> 
     </div>
-    ![jongchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=whdcks3&theme=transparent_icons=true)
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Studying </h2> <div align= "center">  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🍖 Studying </h2> <div align= "center">  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whdcks3&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"/>
      </div>
         <div align= "center">
