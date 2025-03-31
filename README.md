@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=스타일&color=색깔&height=높이&section=위치&text=텍스트&fontSize=글씨크기" />	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ## Hi there 👋
 
 <!--
